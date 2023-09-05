@@ -1,4 +1,4 @@
 # animated-
 This is my first git repository
 <br>
-Author- Yuvraj Gupta
+Author- Yuvraj Gupta ( yuvraj)
